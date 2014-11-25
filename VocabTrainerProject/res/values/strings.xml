@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vocab Trainer Project</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Einstellungen</string>
+    <string name="view">Vokabeln</string>
+    <string name="save">Speichern</string>
+    <string name="question">Frage:</string>
+    <string name="answer">Antwort:</string>
+    <string name="correct">Richtig</string>
+    <string name="wrong">Falsch</string>
+    <string name="box1">Box 1</string>
+    <string name="box2">Box 2</string>
+    <string name="box3">Box 3</string>
+    <string name="box4">Box 4</string>
+    <string name="box5">Box 5</string>
+
+</resources>

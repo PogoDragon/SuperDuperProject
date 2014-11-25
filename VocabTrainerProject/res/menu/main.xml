@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fhfl.tut.vocabtrainerproject.MainActivity" >
+	<group android:id="@+id/menu_group_settings" >
+	    <item
+	        android:id="@+id/menu_view"
+	        android:orderInCategory="100"
+	        android:showAsAction="never"
+	        android:title="@string/view"/>
+	</group>
+    <group android:id="@+id/menu_group_vocab" >
+        <item
+            android:id="@+id/menu_save"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/save"/>
+        <item
+            android:id="@+id/menu_settings"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/settings"/>
+        <item
+            android:id="@+id/box_1"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/box1"/>
+        <item
+            android:id="@+id/box_2"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/box2"/>
+        <item
+            android:id="@+id/box_3"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/box3"/>
+        <item
+            android:id="@+id/box_4"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/box4"/>
+        <item
+            android:id="@+id/box_5"
+            android:orderInCategory="100"
+            android:showAsAction="never"
+            android:title="@string/box5"/>
+    </group>
+
+</menu>
